@@ -1,0 +1,164 @@
+[{"Student":{
+"firstName": "Mandeep",
+"lastName": "kaur",
+"address":[{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+},
+{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+  }],
+ "Scores":[{
+ "subject1":"90",
+ "subject2":"80",
+ "subject3":"70",
+ "subject4":"90",
+ "subject5":"90"
+ }],
+ "Phone_number":[{
+ "Contact1":"123456789",
+ "Contact2":"987654321"
+ }],
+ "Area":[{
+"base":"10",
+"height":"20",
+"side":"30"
+}
+ ]
+ }},
+{"Student":{
+"firstName": "karanbir",
+"lastName": "kaur",
+"address":[{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+},
+{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+  }],
+ "Scores":[{
+ "subject1":"90",
+ "subject2":"80",
+ "subject3":"80",
+ "subject4":"85",
+ "subject5":"88"
+ }],
+ "Phone_number":[{
+ "Contact1":"875647383",
+ "Contact2":"9869848933"
+ }],
+ "Area":[{
+"base":"4",
+"height":"5",
+"side":"10"
+}
+ ]
+}},
+{"Student":{
+"firstName": "Manpreet",
+"lastName": "Singh",
+"address":[{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+},
+{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+  }],
+ "Scores":[{
+ "subject1":"80",
+ "subject2":"90",
+ "subject3":"95",
+ "subject4":"70",
+ "subject5":"94"
+ }],
+ "Phone_number":[{
+ "Contact1":"41678908333",
+ "Contact2":"8765433322"
+ }],
+ "Area":[{
+"base":"30",
+"height":"10",
+"side":"40"
+}
+ ]
+}},
+{"Student":{
+"firstName": "Harsimran",
+"lastName": "Singh",
+"address":[{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+},
+{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+  }],
+ "Scores":[{
+ "subject1":"70",
+ "subject2":"80",
+ "subject3":"90",
+ "subject4":"88",
+ "subject5":"60"
+ }],
+ "Phone_number":[{
+ "Contact1":"9866785494",
+ "Contact2":"7864543345"
+ }],
+ "Area":[{
+"base":"30",
+"height":"50",
+"side":"20"
+}
+ ]
+}},
+{"Student":{
+"firstName": "Anjali",
+"lastName": "Rakholiya",
+"address":[{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+},
+{
+"street":"15 tarawood",
+"city":"Toronto",
+"state":"ON"
+  }],
+ "Scores":[{
+ "subject1":"70",
+ "subject2":"90",
+ "subject3":"80",
+ "subject4":"88",
+ "subject5":"92"
+ }],
+ "Phone_number":[{
+ "Contact1":"879876567",
+ "Contact2":"987678976"
+ }],
+ "Area":[{
+"base":"30",
+"height":"20",
+"side":"40"
+}
+ ]
+}}
+]
+
+
+
+
+
+
+
+ 
